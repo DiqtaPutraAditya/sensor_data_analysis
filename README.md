@@ -139,13 +139,6 @@ Proyek ini membantu kamu memahami:
 
 ---
 
-## 👨‍💻 Penulis
-
-Nama: *\[Nama Kamu]*
-Github: *\[Link akun GitHub]*
-
----
-
 ## ✅ Status
 
 Proyek ini sudah selesai dan dapat dikembangkan lebih lanjut, misalnya dengan:
